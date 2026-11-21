@@ -39,6 +39,15 @@ Through structured training, coursework and hands-on labs, I am developing the a
 - Reviewed antivirus vendor detection results and threat intelligence.
 - Examined malware classification and the reported Flagpro family association.
 - Interpreted findings to understand why the file was classified as malicious.
+  
+- #### EICAR Test File Analysis
+- Analysed a file record using VirusTotal.
+- Reviewed antivirus detection results (65/67).
+- Examined file hashes, metadata, related domains and IP addresses.
+- Identified the sample as an EICAR antivirus test file rather than genuine malware.
+- Practised interpreting threat intelligence and documenting findings.
+
+📄 [View VirusTotal Analysis Report](VirusTotal_EICAR_Analysis_Editorial_Layout.pdf)
 
 ### 3. Applied Cryptography and Key Management with GnuPG
 - Generated and managed RSA public and private key pairs.
