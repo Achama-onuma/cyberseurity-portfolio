@@ -51,7 +51,7 @@ Through structured training, coursework and hands-on labs, I am developing the a
 - Documented incident assessment, containment, eradication and recovery.
 - Identified relevant evidence sources and recommended preventive measures.
 
-- ### Wireshark Network Traffic Analysis and Packet Filtering
+- ### 5. Wireshark Network Traffic Analysis and Packet Filtering
 
 - Analysed a sample network packet capture (`.pcap`) file using Wireshark.
 - Applied display filters to isolate traffic by IP address, source IP, UDP port 53 (DNS), and TCP port 80 (HTTP).
