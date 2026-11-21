@@ -51,6 +51,7 @@ Through structured training, coursework and hands-on labs, I am developing the a
 - Documented incident assessment, containment, eradication and recovery.
 - Identified relevant evidence sources and recommended preventive measures.
 - [View Project Report (PDF)](DFIR_Case_Study_NexaTech.pdf)
+- 
 
 - ### 5. Wireshark Network Traffic Analysis and Packet Filtering
 
