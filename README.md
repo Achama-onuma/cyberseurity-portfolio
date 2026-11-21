@@ -45,6 +45,7 @@ Through structured training, coursework and hands-on labs, I am developing the a
 - Practised symmetric and asymmetric encryption and decryption.
 - Exported public keys in ASCII-armoured format.
 - Verified keys and file integrity.
+- [View Project Report (PDF)](GPG_Cryptography_Practical_Report.pdf)
 
 ### 4. Incident Response and Digital Forensics Case Study
 - Analysed a simulated Microsoft 365 account compromise involving phishing and suspected ransomware activity.
